@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "set": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "span": "cpp",
+        "cmath": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "*.tcc": "cpp",
+        "tuple": "cpp"
+    }
+}

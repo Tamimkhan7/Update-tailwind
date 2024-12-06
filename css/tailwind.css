@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base{
+    h1{
+        @apply font-bold
+    }
+}
+
+
+/* load nitece na  karon file ta conntected hoy na html ar sathe */
+
+.btn {
+    @apply mx-10 my-10 bg-red-600 inline-block text-white font-serif px-3 py-3 rounded-full font-semibold text-lg 
+           hover:bg-blue-800 transition-colors focus:ring-2 ring-offset-2 focus:bg-green-800;
+}
+ 
